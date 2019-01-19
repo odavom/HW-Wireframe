@@ -63,7 +63,7 @@ body {
     margin-top: 10px;
     margin-left: 10px;
     width: 39.2%;
-    padding-bottom: 286px;
+    padding-bottom: 276.4px;
     padding-right: 20px;
 }
 
@@ -76,14 +76,20 @@ body {
 .article__title {
     position: relative;
     top: 20px;
+    font-weight: normal;
+    font-size: 18px;
 }
 
 .section__heading {
     position: relative;
     top: 20px; 
+    font-weight: normal;
+    font-size: 18px;
 }
 
 .aside__heading {
     position: relative;
     top: 20px;
+    font-weight: normal;
+    font-size: 18px;
 }
